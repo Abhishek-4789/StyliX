@@ -31,7 +31,7 @@ Additionally, the script defines the following shortcut commands for quick acces
 | instax  | apt install                       |
 ## Screenshot
 
-![photo](https://i.ibb.co/gvbT8Xw/Screenshot-2023-06-16-21-20-33-828-edit-com-termux.jpg)
+https://github.com/Abhishek-4789/StyliX/blob/main/core/Screenshot_20250615-190950.Termux%20(1).png
 
 ## Installation
 
