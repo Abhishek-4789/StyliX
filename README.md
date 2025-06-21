@@ -36,7 +36,7 @@ Additionally, the script defines the following shortcut commands for quick acces
 - `apt update -y`
 - `apt upgrade -y`
 - `apt install git -y`
-- `git clone https://github.com/VritraSecz/StyliX.git`
+- `git clone https://github.com/Abhishek-4789/StyliX`
 - `cd StyliX`
 - `bash install.sh`
 >> Now It will take just few seconds and then, it will ask you to set username and password. after entering username and password confirm it by ` y ` and done. StyliX is applied in your termux.
